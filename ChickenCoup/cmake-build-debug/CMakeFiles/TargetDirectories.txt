@@ -1,0 +1,3 @@
+/Users/dantelopriore/CLionProjects/ChickenCoup/cmake-build-debug/CMakeFiles/ChickenCoup.dir
+/Users/dantelopriore/CLionProjects/ChickenCoup/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dantelopriore/CLionProjects/ChickenCoup/cmake-build-debug/CMakeFiles/rebuild_cache.dir
