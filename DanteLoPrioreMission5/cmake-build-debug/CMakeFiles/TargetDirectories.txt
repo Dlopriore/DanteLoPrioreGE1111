@@ -1,0 +1,3 @@
+/Users/dantelopriore/CLionProjects/DanteLoPrioreMission5/cmake-build-debug/CMakeFiles/DanteLoPrioreMission5.dir
+/Users/dantelopriore/CLionProjects/DanteLoPrioreMission5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dantelopriore/CLionProjects/DanteLoPrioreMission5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
