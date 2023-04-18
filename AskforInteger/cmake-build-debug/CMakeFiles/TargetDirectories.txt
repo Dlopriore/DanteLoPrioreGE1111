@@ -1,0 +1,3 @@
+/Users/dantelopriore/CLionProjects/AskforInteger/cmake-build-debug/CMakeFiles/AskforInteger.dir
+/Users/dantelopriore/CLionProjects/AskforInteger/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dantelopriore/CLionProjects/AskforInteger/cmake-build-debug/CMakeFiles/rebuild_cache.dir
