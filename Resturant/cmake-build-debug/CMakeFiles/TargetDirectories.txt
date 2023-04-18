@@ -1,0 +1,3 @@
+/Users/dantelopriore/CLionProjects/Resturant/cmake-build-debug/CMakeFiles/Resturant.dir
+/Users/dantelopriore/CLionProjects/Resturant/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dantelopriore/CLionProjects/Resturant/cmake-build-debug/CMakeFiles/rebuild_cache.dir
