@@ -1,0 +1,3 @@
+/Users/dantelopriore/CLionProjects/MathMiniGame/cmake-build-debug/CMakeFiles/MathMiniGame.dir
+/Users/dantelopriore/CLionProjects/MathMiniGame/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dantelopriore/CLionProjects/MathMiniGame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
